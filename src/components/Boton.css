@@ -1,0 +1,12 @@
+.boton-container {
+  display: flex;
+  width: 454.42px;
+  height: 62.4px;
+  margin: 14.2px 15.38px 14.2px 15.38px;
+  border-radius: 14.2px;
+  border: 1.1833775043487549px;
+  gap: 16.567285537719727px;
+  background-color: rgba(236, 186, 196, 1);
+  justify-content: center;
+  align-items: center;
+}

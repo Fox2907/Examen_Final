@@ -1,0 +1,27 @@
+.review-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 67px;
+  width: 100%;
+  align-items: center;
+}
+
+.review-container img {
+  display: flex;
+  width: 37.47362518310547px;
+  height: 35.637413024902344px;
+  top: 3.7473602294921875px;
+  left: 3.747344970703125px;
+}
+
+.number-reviews {
+  display: flex;
+  font-family: SF Pro Display;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(105, 105, 105, 1);
+  ;
+}
